@@ -37,7 +37,7 @@ async def antos(ctx):
 @bot.command(name='17', help='Clears Chat')
 async def one_seven(ctx):
 
-    message = "Conor is gay ```\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r```"
+    message = "Conor is Unique ```\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r```"
     await ctx.send(message)
 
 @bot.command(name='66', help='Nerd Call')
@@ -58,7 +58,7 @@ async def jack(ctx):
 @bot.command(name='69', help='Dirty')
 async def six_nine(ctx):
 
-    await ctx.send("``` Conor stop being Horny```")
+    await ctx.send("``` Конор перестанет быть возбужденным```")
 
 @bot.command(name='14', help="I'm not sure")
 async def one_four(ctx):
@@ -93,7 +93,7 @@ async def pick_game(ctx):
     myinte = random.choice(games)
     await ctx.send(myinte)
 
-
+# Attempting to use API's
 # def jprint(obj):
 #   # create a formatted string of the Python JSON object
 #   text = json.dumps(obj, sort_keys=True, indent=4)
